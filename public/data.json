@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 9.99,
+        "features": [
+            "Up to 5 projects",
+            "10GB of storage",
+            "Limited email support"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium",
+        "price": 19.99,
+        "features": [
+            "Up to 20 projects",
+            "50GB of storage",
+            "Email and phone support"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Enterprise",
+        "price": 49.99,
+        "features": [
+            "Unlimited projects",
+            "Unlimited storage",
+            "24/7 support"
+        ]
+    }
+]
